@@ -11,6 +11,7 @@ namespace Api.Controllers
     [Authorize]
     public class IdentityController : ControllerBase
     {
+        
         [HttpGet]
         public IActionResult Get()
         {
