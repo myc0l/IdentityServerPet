@@ -19,7 +19,8 @@ namespace Api
         {
             services.AddMvcCore()
                 .AddAuthorization()
-                .AddJsonFormatters();
+                .AddJsonFormatters()
+                .AddApiExplorer();
 
             services.AddAuthentication("Bearer")
                 .AddJwtBearer("Bearer", options => {
