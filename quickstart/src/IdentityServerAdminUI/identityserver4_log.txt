@@ -1,0 +1,48 @@
+2019-06-12 10:07:07.691 +02:00 [INF] Starting IdentityServer4 version 2.3.2.0
+2019-06-12 10:07:08.362 +02:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-06-12 10:07:08.362 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-06-12 10:07:08.363 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-06-12 10:07:08.363 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-06-12 10:07:08.363 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-06-12 10:07:08.368 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-06-12 10:07:28.516 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 10:34:26.351 +02:00 [INF] Starting IdentityServer4 version 2.3.2.0
+2019-06-12 10:34:26.479 +02:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-06-12 10:34:26.480 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-06-12 10:34:26.480 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-06-12 10:34:26.480 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-06-12 10:34:26.480 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-06-12 10:34:26.480 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-06-12 10:34:36.204 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 11:28:50.087 +02:00 [INF] Starting IdentityServer4 version 2.3.2.0
+2019-06-12 11:28:50.206 +02:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-06-12 11:28:50.206 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-06-12 11:28:50.206 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-06-12 11:28:50.206 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-06-12 11:28:50.206 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-06-12 11:28:50.206 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-06-12 11:28:53.119 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 11:28:53.483 +02:00 [DBG] skoruba_identity_admin found in database: false
+2019-06-12 11:29:58.870 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 11:29:59.020 +02:00 [DBG] skoruba_identity_admin found in database: false
+2019-06-12 11:30:20.285 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 11:30:49.794 +02:00 [DBG] 0 persisted grants found for Community
+2019-06-12 11:31:05.670 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 11:36:16.040 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-12 11:36:16.181 +02:00 [DBG] skoruba_identity_admin found in database: false
+2019-06-13 07:30:12.884 +02:00 [INF] Starting IdentityServer4 version 2.3.2.0
+2019-06-13 07:30:13.036 +02:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-06-13 07:30:13.036 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-06-13 07:30:13.036 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-06-13 07:30:13.036 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-06-13 07:30:13.036 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-06-13 07:30:13.036 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-06-13 07:30:21.521 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database
+2019-06-13 09:47:01.183 +02:00 [INF] Starting IdentityServer4 version 2.3.2.0
+2019-06-13 09:47:01.336 +02:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-06-13 09:47:01.336 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-06-13 09:47:01.336 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-06-13 09:47:01.336 +02:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-06-13 09:47:01.336 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-06-13 09:47:01.336 +02:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-06-13 09:47:07.305 +02:00 [DBG] Found ["openid","profile","admin_ui_profile","admin_ui_public","admin_api","admin_ui_webhooks"] as all scopes in database

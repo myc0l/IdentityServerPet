@@ -40,6 +40,8 @@ namespace MVCApp.Controllers
         {
             return View();
         }
+
+        [Route("logout")]
         public IActionResult Logout()
         {
             return SignOut("Cookies", "oidc");
